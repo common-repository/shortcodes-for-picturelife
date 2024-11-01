@@ -1,0 +1,21 @@
+#picturelife
+{
+	list-style: none;
+}
+
+#picturelife li
+{
+	float: left;
+	list-style-image: none;
+	list-style-type: none;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+#picturelife li img
+{
+	width: 320px;
+	height: 210px;
+	object-fit: cover;
+}
